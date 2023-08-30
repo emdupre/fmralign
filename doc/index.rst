@@ -8,7 +8,9 @@
     fmralign is a Python module for **fast and easy functional alignment on
     fMRI** data.
 
-    It leverages the `Nilearn <http://nilearn.github.io>`_ and `scikit-learn <http://scikit-learn.org>`_ toolboxes for alignment usecases such as new data prediction or improved `decoding <https://nilearn.github.io/decoding/index.html>`_.
+    It leverages the `Nilearn <http://nilearn.github.io>`_ and 
+    `scikit-learn <http://scikit-learn.org>`_ toolboxes for alignment usecases
+    such as new data prediction or improved `decoding <https://nilearn.github.io/decoding/index.html>`_.
 
 .. toctree::
     :hidden:
